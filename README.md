@@ -1,5 +1,14 @@
 <h1 align="center">Amazon Stock Checker Bot</h1>
 
+
+## Project Overview:
+This bot continuously checks the availability of specific Amazon products at high frequency—without putting your account at risk. Designed for stealth and speed, it uses rotating proxies and fingerprinting techniques to avoid detection, making it perfect for monitoring high-demand items like GPUs, game consoles, or flash deals. Whether you're a reseller, collector, or just tired of missing restocks, this bot has your back.
+
+## Core Features:
+- **Stealth Monitoring:** Integrates proxy rotation and fingerprint spoofing to avoid triggering Amazon's bot detection systems.
+- **High-Frequency Checks:** Can check item availability as fast as every second without rate-limiting errors.
+- **Web-Based & Python Powered:** Available as a Python script or deployable via WebApps—no bulky executables required.
+
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/d200549d-7613-446f-a43b-19a4117ca360"
@@ -62,14 +71,6 @@
 <span>
 
 <div align="left">
-
-## Project Overview:
-This bot continuously checks the availability of specific Amazon products at high frequency—without putting your account at risk. Designed for stealth and speed, it uses rotating proxies and fingerprinting techniques to avoid detection, making it perfect for monitoring high-demand items like GPUs, game consoles, or flash deals. Whether you're a reseller, collector, or just tired of missing restocks, this bot has your back.
-
-## Core Strengths:
-- **Stealth Monitoring:** Integrates proxy rotation and fingerprint spoofing to avoid triggering Amazon's bot detection systems.
-- **High-Frequency Checks:** Can check item availability as fast as every second without rate-limiting errors.
-- **Web-Based & Python Powered:** Available as a Python script or deployable via WebApps—no bulky executables required.
 
 ## Features List:
 | Feature                 | Description                                                              |
